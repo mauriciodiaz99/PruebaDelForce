@@ -1,0 +1,4 @@
+Este es otro archivo de Prueba 
+Este si ya esta creado y ya entendi el proceso de 
+creacion y guardado del archivo txt con el comando Vim
+solamente presiono la tecla ":" seguido de x y Enter
